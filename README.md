@@ -10,8 +10,9 @@ GADS Learning Phase 2 Practice Project
 
 
 ## My solutions for the challenge
-### the solved labs <a href='https://github.com/mariam-ms/GADS2020-GCP/tree/master/qwiklabs%20screenshots'> :
-
+### the solved labs :
+<a href='https://github.com/mariam-ms/GADS2020-GCP/tree/master/qwiklabs%20screenshots'>
+  
 - GCP Fundamentals: Getting Started with Cloud Marketplace 
 - GCP Fundamentals: Getting Started with Compute Engine
 - GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQl
