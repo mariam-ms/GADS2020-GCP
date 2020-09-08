@@ -1,0 +1,21 @@
+#translation for lab #1
+#Google Cloud Fundamentals: Getting Started with Cloud Marketplace
+
+#Overview :
+In this lab, I use Cloud Marketplace
+to quickly and easily deploy a LAMP stack
+on a Compute Engine instance. The Bitnami LAMP 
+Stack provides a complete web development environment for 
+Linux that can be launched in one click.
+
+#Objectives:
+Learning how to use cloud Marketplace and launch a solution
+
+Task 1: Sign in to the Google Cloud Platform (GCP) Console: 
+
+for every lab there is a set given credentials, fixed time, 
+and project name to start using GCP resourced, so we are going to
+click on "start lab", opening new tab and 
+
+
+
