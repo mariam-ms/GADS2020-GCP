@@ -15,7 +15,30 @@ Task 1: Sign in to the Google Cloud Platform (GCP) Console:
 
 for every lab there is a set given credentials, fixed time, 
 and project name to start using GCP resourced, so we are going to
-click on "start lab", opening new tab and 
+click on "start lab", opening new tab and sign in with our given username
+and password.
+
+Task 2: Use Cloud Marketplace to deploy a LAMP stack:
+
+1. take a look in resources existing in cloud Console.
+2. choose Marketplace from navigation menu
+3. search for 'LAMP'
+4. choose ' LAMP Certified by Bitnami '
+5. launch its page => set your nearby zone - leave the rest of settings as default
+6. deploy
+
+Task 3: Verify your deployment.
+1.When the deployment is complete, click the Site address link.
+2. open ssh of the deployment 
+3. type:  cd /opt/bitnami (current working directory command)
+4.(To copy the phpinfo.php script from the installation directory to a publicly accessible 
+location under the web server document root) => sudo sh -c 'echo "<?php phpinfo(); ?>" > apache2/htdocs/phpinfo.php'
+
+6. exit ssh.
+7. open a new tab and type : http://SITE_ADDRESS/phpinfo.php
+replace SITE_ADDRESS with the URL in the Site address field
+
+
 
 
 
