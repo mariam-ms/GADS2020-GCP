@@ -1,15 +1,17 @@
 #translation for lab #1
 #Google Cloud Fundamentals: Getting Started with Cloud Marketplace
 
-#Overview :
+## Overview :
 In this lab, I use Cloud Marketplace
 to quickly and easily deploy a LAMP stack
 on a Compute Engine instance. The Bitnami LAMP 
 Stack provides a complete web development environment for 
 Linux that can be launched in one click.
 
-#Objectives:
+## Objectives:
 Learning how to use cloud Marketplace and launch a solution
+
+## steps :
 
 Task 1: Sign in to the Google Cloud Platform (GCP) Console: 
 
@@ -27,7 +29,8 @@ Task 2: Use Cloud Marketplace to deploy a LAMP stack:
 5. launch its page => set your nearby zone - leave the rest of settings as default
 6. deploy
 
-Task 3: Verify your deployment.
+Task 3: Verify your deployment :
+
 1.When the deployment is complete, click the Site address link.
 2. open ssh of the deployment 
 3. type:  cd /opt/bitnami (current working directory command)
