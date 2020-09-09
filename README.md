@@ -27,5 +27,5 @@ GADS Learning Phase 2 Practice Project
 ### the translated labs :
 <a href='https://github.com/mariam-ms/GADS2020-GCP/tree/master/labs%20translation'>
   
-  GCP Fundamentals: Getting Started with Cloud Marketplace 
-  GCP Fundamentals: Getting Started with Compute Engine 
+ - GCP Fundamentals: Getting Started with Cloud Marketplace 
+ - GCP Fundamentals: Getting Started with Compute Engine 
