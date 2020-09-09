@@ -1,7 +1,7 @@
 # <a href='https://google.qwiklabs.com/public_profiles/3153e3ed-677a-4567-8ad7-486af8083671'> 
 
 ## Google Africa Developers Scholarship 2020 
-This Mariam Elsehrawy, and here's my trials to dig into GADS Learning Phase II Practice Project.
+This is Mariam Elsehrawy, and here's my trials to dig into GADS Learning Phase II Practice Project.
 
 ### The challenge(s)
 ### The Cloud challenge is divided in two parts:
